@@ -2,11 +2,11 @@ import { getFrameMetadata } from '@coinbase/onchainkit';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Boost Eligibility Checker',
-  description: 'BOOST',
+  title: 'Mint Eligibility Checker',
+  description: 'MINT',
   openGraph: {
-    title: 'rabbithole.gg',
-    description: 'BOOST',
+    title: 'mintit.gg',
+    description: 'MINT',
     images: ['https://farcaster-frame-test-74o6.vercel.app/mint.png'],
   },
   other: {
